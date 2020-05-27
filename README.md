@@ -1,1 +1,3 @@
 # Breast-Cancer-Detection
+
+Abstract—Breast Cancer is one of the most frequently occurring cancers in women and it can occur to men as well. If a patient has a tumor, it could be either malignant (cancerous) or benign. If we can identify at an early stage if the tumor is benign or malignant, the chances of survival are higher. In this project, an attempt to classify the tumors accurately using different machine learning algorithms is made. Different machine learning techniques such as Logistic Regression, K-Nearest Neighbors, Support Vector Machine, Decision Tree, Random Forest, and Naive Bayes are implemented in the project for the classification of benign and malignant tumors.
